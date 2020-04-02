@@ -1,8 +1,5 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
 The chosen replication project is the Banana Keyboard.
@@ -31,6 +28,7 @@ Loop is a series of sinuous and suspended sloped tracks. With its course animate
 Field of Flowers by Daniel Schmidt & Paul Dresher
 
 https://www.youtube.com/watch?v=wqfEec9oono
+[![IMAGE of Field of Flowers](/replicationproject/FieldofFlowers.png)](https://www.youtube.com/watch?v=wqfEec9oono)
 
 Field of Flowers is a sound sculpture that uses a custom designed wood blocks (with a large ball bearing or golf ball inside) placed atop two spring steel rods. When pulled back and released, the wood block oscillates back and forth and the ball acts like a bell-clapper, playing the wood block. Each “Flower” has a different pitch and period of oscillation. Inspired to use similar organic materials to build the replication project.
 
