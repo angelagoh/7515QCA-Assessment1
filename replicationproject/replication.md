@@ -87,7 +87,7 @@ Not regarding this text, we have covered a lot of the same keywords and concept 
 
 ## Interaction flowchart ##
 
-![Image](missingimage.png)
+![Image of interaction flowchart](/replicationproject/Interaction Flowchart.png)
 
 ## Process documentation
 
