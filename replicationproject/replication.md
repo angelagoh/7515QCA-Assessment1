@@ -42,8 +42,6 @@ http://eness.com/#/sonic-light-bubble/
 Sonic Light Bubble is an interactive installation created to respond to touch through light and sound. The replication project as mentioned was the Banana keyboard (with a twist), similar to the installation it has a piezzo buzzer and LEDs installed. When in contact, a buzz and the LED is triggered.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
@@ -86,11 +84,21 @@ Taking the concept presented, although the replication project is not a digital 
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Coming from a design (Graphic/Interior Design) background, the term design has always been about designing functions to conform into a "set" aesthetic. The UI of a product often appeals to me more than the UX of the product.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+This text (and course) provides me with very good insights into the UX aspects of a deisgn - not only does it provide the framework for how technology works and how it is used, it also defines design in a broader context that includes the total ecosystem with which it interacts and the possibility of unintended consequences. 
+
+What resonates with me the most is when Sullivan said "...curiosity and the willingness to learn new skill to make things" are the most important trait when desinging for emerging technology. The resilience of the designer that builds their skills on troubleshooting is what makes them better. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+The text was very straightforward, I have no questions regarding this. 
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+Prototyping takes time and the replication project took a really long time to get to the mechanics to work with the structure. It was all about troubleshooting each problem as it arrives. 
 
 
 ## Interaction flowchart ##
@@ -164,4 +172,4 @@ The references below are the main driver for the conceptualisation of this proje
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
 
-Expanding the idea of creating an installation with this set up, it would be absolutely amazing to be able to reproduce this work in a larger form. I would like to be able to explore the original idea of steel balls and conducting plates on the racks, triggering twinkling lights and sound. Given the current restrictions, cardboard was all that I could access at low costs however, I would like to further explore different materials utilised to further extent the “sound” component of the work. 
+Expanding the idea of creating an installation with this set up, it would be absolutely amazing to be able to reproduce this work in a larger form. I would like to be able to explore the original idea of steel balls and conducting plates on the racks, triggering twinkling lights and sound. Given the current restrictions, cardboard was all that I could access at low costs however, I would like to further explore different materials utilised to further extent the “sound” component of the work. Mechanics can be integrated to the installation changing the tracks and directions of where the marbles roll.
