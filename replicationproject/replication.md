@@ -135,13 +135,19 @@ I think the execution of the structure could have been done a lot better. The ch
 Although this project has strayed from the initial idea, I think being able to rethink a concept to newly imposed restrictions and limitation is important when designing a work.  This is a great start to a very hands-on class, and the original concept of the Banana Keyboard was easy to understand and achievable for a novice like I am. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+
 Based on the original concept, sound is triggered when the circuit is closed. A practical way to approach this concept was to have switches incorporated into the design that opens and closes the circuit. With the addition of the sub-miniature micro switch, the circuit becomes complete only when the lever is “pressed” down. The information form Experiment 3 of the Mirco:bit tutorial book was also drawn upon for the configuration of the set-up. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+
 The references below are the main driver for the conceptualisation of this project.
-Micro:bit (n.d.) Banana Keyboard. Micro:bit. Accessed March 20, 2020. https://makecode.microbit.org/projects/banana-keyboard
-COS x Snarkitecture (2017). Loop. Accessed March 20, 2020. https://www.cosstores.com/en/explore/projects/design/cos-x-snarkitectureseoul-2017.html#
-Eness (2017). Sonic Light Bubble. Accessed March 20, 2020. http://eness.com/#/sonic-light-bubble/
+
+* Micro:bit (n.d.) Banana Keyboard. Micro:bit. Accessed March 20, 2020. https://makecode.microbit.org/projects/banana-keyboard
+
+* COS x Snarkitecture (2017). Loop. Accessed March 20, 2020. https://www.cosstores.com/en/explore/projects/design/cos-x-snarkitectureseoul-2017.html#
+
+* Eness (2017). Sonic Light Bubble. Accessed March 20, 2020. http://eness.com/#/sonic-light-bubble/
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
 Expanding the idea of creating an installation with this set up, it would be absolutely amazing to be able to reproduce this work in a larger form. I would like to be able to explore the original idea of steel balls and conducting plates on the racks, triggering twinkling lights and sound. Given the current restrictions, cardboard was all that I could access at low costs however, I would like to further explore different materials utilised to further extent the “sound” component of the work. 
