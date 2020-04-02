@@ -15,7 +15,7 @@ Lines by Anders Lind
 
 https://www.youtube.com/watch?v=hP36xoPXDnM
 
-![Image](missingimage.png)
+![Image of Lines](Lines by Anders Lind.jpg)
 
 Lines is an interactive sound art exhibition. Lines are attached to the wall, on the floor and hanging from the ceiling in combination with sensors and electronics are forming three novel music instruments. This project adopts the same concept as the Banana Keyboard.
 
@@ -32,8 +32,6 @@ Loop is a series of sinuous and suspended sloped tracks. With its course animate
 Field of Flowers by Daniel Schmidt & Paul Dresher
 
 https://www.youtube.com/watch?v=wqfEec9oono
-
-![Image](missingimage.png)
 
 Field of Flowers is a sound sculpture that uses a custom designed wood blocks (with a large ball bearing or golf ball inside) placed atop two spring steel rods. When pulled back and released, the wood block oscillates back and forth and the ball acts like a bell-clapper, playing the wood block. Each “Flower” has a different pitch and period of oscillation. Inspired to use similar organic materials to build the replication project.
 
@@ -87,7 +85,7 @@ Not regarding this text, we have covered a lot of the same keywords and concept 
 
 ## Interaction flowchart ##
 
-![Image of interaction flowchart](/replicationproject/Interaction Flowchart.png)
+![Image of interaction flowchart](Interaction Flowchart.png)
 
 ## Process documentation
 
