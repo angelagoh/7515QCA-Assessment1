@@ -24,7 +24,7 @@ Loop by COS x Snarkitecture
 
 https://www.theguardian.com/artanddesign/video/2017/nov/09/cos-x-snarkitecture-loop-art-installation-takes-marble-run-to-the-next-level-video
 
-![Image](missingimage.png)
+![Image of Loop](/replicationproject/02_COS-Snarkitecture-Seoul-2017_MP_2280x1520.jpg)
 
 Loop is a series of sinuous and suspended sloped tracks. With its course animated by a steady hum of white glass marbles gliding along its interwoven rails. The replication project was inspired by this set up.   
 
