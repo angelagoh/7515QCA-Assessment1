@@ -42,7 +42,7 @@ Sonic Light Bubble by Eness
 
 http://eness.com/#/sonic-light-bubble/
 
-![Image of Sonic Light Bubble](replicationproject/ENESS+sonic+light+bubble+roppongi+art+night+DSC02704.jpg)
+![Image of Sonic Light Bubble](/replicationproject/ENESS+sonic+light+bubble+roppongi+art+night+DSC02704.jpg)
 
 Sonic Light Bubble is an interactive installation created to respond to touch through light and sound. The replication project as mentioned was the Banana keyboard (with a twist), similar to the installation it has a piezzo buzzer and LEDs installed. When in contact, a buzz and the LED is triggered.
 
