@@ -85,31 +85,7 @@ Not regarding this text, we have covered a lot of the same keywords and concept 
 ![Image of interaction flowchart](/replicationproject/InteractionFlowchart.png)
 
 ## Process documentation
-
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
 ![Image of codes](/replicationproject/Codes.png)
-
-*Include screenshots of the code you have used.*
-
-## Project outcome ##
-
-### Project title ###
-Marble Run *(with a twist)*
-### Project description ###
-The original project have standard keyboard notes coded to specific pins on the Micro:bit. The banana is connected to the pins acting as keys, and the orange was connected to ground – closing the circuit. Noting that sound is triggered only when the circuit is closed (orange is held).
-
-My replication project will be reproduced on a marble run/race track. It combines the original banana keyboard concept with the addition of a light circuit. Sections of the track would have foil glued to them with little breaks in between. They are to be triggered by steel balls, closing the circuit as it rolls down the race.
-
-*The original concept has now been tweaked as specified steel balls was delayed in shipment prior to the deadline.*
-
-Marbles will be used as an alternative. As it is not a conductor of electricity, it will not close the circuit. In this case, sub-miniature micro switch with a lever will be used in the place of the foil passage as an alternative. The replacement marbles are heavy and big enough to roll over the switches without getting stopped by the resistance. 
-
-### Showcase image ###
 
 *Initial switch testing*
 ![Version 1](/replicationproject/d0463474-cac8-45c0-8dce-94cabe2739a6.JPG)
@@ -127,9 +103,20 @@ Marbles will be used as an alternative. As it is not a conductor of electricity,
 
 ![Image 5](/replicationproject/IMG_4862.jpg).
 
+## Project outcome ##
 
-### Additional view ###
+### Project title ###
+Marble Run *(with a twist)*
+### Project description ###
+The original project have standard keyboard notes coded to specific pins on the Micro:bit. The banana is connected to the pins acting as keys, and the orange was connected to ground – closing the circuit. Noting that sound is triggered only when the circuit is closed (orange is held).
 
+My replication project will be reproduced on a marble run/race track. It combines the original banana keyboard concept with the addition of a light circuit. Sections of the track would have foil glued to them with little breaks in between. They are to be triggered by steel balls, closing the circuit as it rolls down the race.
+
+*The original concept has now been tweaked as specified steel balls was delayed in shipment prior to the deadline.*
+
+Marbles will be used as an alternative. As it is not a conductor of electricity, it will not close the circuit. In this case, sub-miniature micro switch with a lever will be used in the place of the foil passage as an alternative. The replacement marbles are heavy and big enough to roll over the switches without getting stopped by the resistance. 
+
+### Showcase image ###
 ***Click on images to be redirected to Vimeo***
 
 [![IMAGE of front](/replicationproject/IMG_6331B3DE45CC-1.jpeg)](https://vimeo.com/403163999)
