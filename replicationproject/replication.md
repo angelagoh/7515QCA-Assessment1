@@ -113,15 +113,13 @@ Marbles will be used as an alternative. As it is not a conductor of electricity,
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)![Image](missingimage.png)
+![Version 1](/replicationproject/d0463474-cac8-45c0-8dce-94cabe2739a6.JPG)![Version 2](/replicationproject/6b177a8e-d352-4e24-a573-93037282456d.JPG)![Image 3](/replicationproject/IMG_5924.jpeg)![Image 4](/replicationproject/IMG_4792.JPG)![Image 5](/replicationproject/IMG_4862.jpg)
 
 ### Additional view ###
 
 ***Click on images to be redirected to Vimeo***
 
 [![IMAGE of Field of Flowers](/replicationproject/IMG_6331B3DE45CC-1.jpeg)](https://vimeo.com/403163999)[![IMAGE of led screen](/replicationproject/IMG_7679.jpeg)](https://vimeo.com/403164253) [![IMAGE of close up](/replicationproject/IMG_7218.jpg)](https://vimeo.com/403163658)
-
-![Image](missingimage.png)[Image](missingimage.png)[Image](missingimage.png)
 
 ### Reflection ###
 
