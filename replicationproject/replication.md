@@ -8,14 +8,13 @@
 The chosen replication project is the Banana Keyboard.
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Lines by Anders Lind
 
 https://www.youtube.com/watch?v=hP36xoPXDnM
 
-![Image of Lines](Lines by Anders Lind.jpg)
+![Image of Lines](/replicationproject/Lines-by-Anders-Lind.jpg)
 
 Lines is an interactive sound art exhibition. Lines are attached to the wall, on the floor and hanging from the ceiling in combination with sensors and electronics are forming three novel music instruments. This project adopts the same concept as the Banana Keyboard.
 
@@ -85,7 +84,7 @@ Not regarding this text, we have covered a lot of the same keywords and concept 
 
 ## Interaction flowchart ##
 
-![Image of interaction flowchart](Interaction Flowchart.png)
+![Image of interaction flowchart](/replicationproject/Interaction-Flowchart.png)
 
 ## Process documentation
 
