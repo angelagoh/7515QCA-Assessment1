@@ -14,7 +14,7 @@ Lines by Anders Lind
 
 https://www.youtube.com/watch?v=hP36xoPXDnM
 
-![Image of Lines](/replicationproject/Lines-by-Anders-Lind.jpg)
+![Image of Lines](/replicationproject/LinesbyAndersLind.jpg)
 
 Lines is an interactive sound art exhibition. Lines are attached to the wall, on the floor and hanging from the ceiling in combination with sensors and electronics are forming three novel music instruments. This project adopts the same concept as the Banana Keyboard.
 
@@ -84,7 +84,7 @@ Not regarding this text, we have covered a lot of the same keywords and concept 
 
 ## Interaction flowchart ##
 
-![Image of interaction flowchart](/replicationproject/Interaction-Flowchart.png)
+![Image of interaction flowchart](/replicationproject/InteractionFlowchart.png)
 
 ## Process documentation
 
