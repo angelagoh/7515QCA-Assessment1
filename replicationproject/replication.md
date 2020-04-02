@@ -111,25 +111,28 @@ Marbles will be used as an alternative. As it is not a conductor of electricity,
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Version 1](/replicationproject/d0463474-cac8-45c0-8dce-94cabe2739a6.JPG)
 *Initial switch testing*
+![Version 1](/replicationproject/d0463474-cac8-45c0-8dce-94cabe2739a6.JPG)
 
-![Version 2](/replicationproject/6b177a8e-d352-4e24-a573-93037282456d.JPG)
 *Chosen a  sub-minature micro switch with level instead as it requires less force.*
+![Version 2](/replicationproject/6b177a8e-d352-4e24-a573-93037282456d.JPG)
 
-![Image 3](/replicationproject/IMG_4792.JPG)![Image 5](/replicationproject/IMG_4862.jpg)
-*Set up of basic structure for the course.*
+*Addition of LEDs to the circuit. https://vimeo.com/403164253 *
+![Image 3](/replicationproject/IMG_4166.jpeg)
 
-![Image43](/replicationproject/IMG_4792.JPG)![Image 5](/replicationproject/IMG_4862.jpg)
-*Addition of LEDs to the circuit.*
+*Basic structure for the course.*
+![Image 4](/replicationproject/IMG_4792.JPG).
+
+*Set-up after trouble shooting. (Reinforcement of support, extending the lever on the switch, adding extra texture to the track in an attempt to slow down the time required for the marble to roll down the track)*
+
+![Image 5](/replicationproject/IMG_4862.jpg).
+
 
 ### Additional view ###
 
 ***Click on images to be redirected to Vimeo***
 
-[![IMAGE of Field of Flowers](/replicationproject/IMG_6331B3DE45CC-1.jpeg)](https://vimeo.com/403163999)
+[![IMAGE of front](/replicationproject/IMG_6331B3DE45CC-1.jpeg)](https://vimeo.com/403163999)
 
 [![IMAGE of led screen](/replicationproject/IMG_7679.jpeg)](https://vimeo.com/403164253) 
 
