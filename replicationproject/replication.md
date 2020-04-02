@@ -14,6 +14,7 @@ The chosen replication project is the Banana Keyboard.
 Lines by Anders Lind
 
 https://www.youtube.com/watch?v=hP36xoPXDnM
+
 ![Image](missingimage.png)
 
 Lines is an interactive sound art exhibition. Lines are attached to the wall, on the floor and hanging from the ceiling in combination with sensors and electronics are forming three novel music instruments. This project adopts the same concept as the Banana Keyboard.
@@ -103,13 +104,13 @@ Not regarding this text, we have covered a lot of the same keywords and concept 
 ## Project outcome ##
 
 ### Project title ###
-Marble Run (with a twist)
+Marble Run *(with a twist)*
 ### Project description ###
-The original project shown have standard keyboard notes coded to specific pins on the Micro:bit. The banana is connected to the pins acting as keys, and the orange was connected to ground – closing the circuit. Noting that sound is triggered only when the circuit is closed (orange is held).
+The original project have standard keyboard notes coded to specific pins on the Micro:bit. The banana is connected to the pins acting as keys, and the orange was connected to ground – closing the circuit. Noting that sound is triggered only when the circuit is closed (orange is held).
 
 My replication project will be reproduced on a marble run/race track. It combines the original banana keyboard concept with the addition of a light circuit. Sections of the track would have foil glued to them with little breaks in between. They are to be triggered by steel balls, closing the circuit as it rolls down the race.
 
-*The original concept has now been tweaked as specified steel balls was delayed in shipment prior to the deadline.
+*The original concept has now been tweaked as specified steel balls was delayed in shipment prior to the deadline.*
 
 Marbles will be used as an alternative. As it is not a conductor of electricity, it will not close the circuit. In this case, sub-miniature micro switch with a lever will be used in the place of the foil passage as an alternative. The replacement marbles are heavy and big enough to roll over the switches without getting stopped by the resistance. 
 
@@ -128,6 +129,7 @@ Marbles will be used as an alternative. As it is not a conductor of electricity,
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+
 Overall, the outcome for the project is a success. The project’s set-up albeit a little quaint and rough, it fulfils the concept of the Banana Keyboard. The extra light element added to the circuit, makes the project a little more complex than it is. 
 
 I think the execution of the structure could have been done a lot better. The choice of materials was an alternate decision made due to the situation we were placed in for the pandemic. Cardboard was the only low-cost accessible materials that would be strong and malleable enough to form the track. It was also a struggle to fit the switches and LEDs on the track as it was hard to maintain accuracy and quality of a very tenuous material. I’ve also learnt, nothing beats having simple tape and glue to provide temporary fixes!
