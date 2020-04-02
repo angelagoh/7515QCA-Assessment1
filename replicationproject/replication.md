@@ -44,30 +44,43 @@ Sonic Light Bubble is an interactive installation created to respond to touch th
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
-*For each of the assigned readings, answer the questions below.*
-
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+
 I have always thought design signifiers were simply a part of the product’s affordance.  
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
 It was very insightful to learn that in design, signifiers are more important than affordances - they communicate how to use the device to accomplish a given outcome, rather than leaving the user to go through a trial-and-error process trying to discover how it should be used. Good design requires good communication, especially from machine to person, indicating what actions are possible, what is happening, and what is about to happen. And signifiers communicate where action should take place, it could be visual or auditorial cues, and any other perceivable indicator that communicates appropriate behaviour to the user. It was interesting to learn that some signifiers are simply the perceived affordances, such as the handle of a door or the physical structure of a switch. He also mentions that signifiers may take on their own meaning, or that users may misinterpret them. Particularly when the significance of something is unclear, people will discover or make up their own meanings.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+
 Not regarding this text, we have covered a lot of the same keywords and concept in a separate class (Interactive Media Concepts).
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+Applying the text to the project, it would be essential to have a clear indication of what this set-up does. From The way the marbles is set up to the directionaly layout of the course, this would allow the user to interpret is as a Marble Run track. A handle/knob-like element should also be implemented to the design to indicate that turning/rotating the gear is required to interact with this project.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Prior to reading this text, I was not familiar with the term *Microinteractions*. I would usually identify the said microinteraction design presented in the text as features.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+It was interesting to read that microinteractions plays an essential role in our digital lives, even if we don't recognise them. They are  small moments where users and design interact and we encounter them everyday - from snoozing your phone alarm, to 'liking a status' on social media platforms. When they're well designed, it enhances the user's experience and alternatly, it damages the user experience and causes frustrations when it is poorly designed.
+
+The text also provides insight as to how a designer should design products based off the 4 elements of the structure of microinteractions. The text seems to suggests that the ultimate goal when designing digital product is to 'change human behaviour'. It is these habit-forming experience that we should be focusing on. Although features might draw the user to the product, it is the details that keeps the user from 'leaving'. It is important to note as well, that microinteractions must survive long-term use. What seems fun the first time might become annoying after a long period of time. It is important to (remember) stay away from endless loops of visual noise and time-consuming and pointless animated interruptions.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would like to know more about full practical approach when designing microinteractions. 
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+Taking the concept presented, although the replication project is not a digital product, I think that it is still relevant to designing the digital interface of the product. It might be applicable to the extension of the project as suggested in the 'Reflection' section of my project journal. It could have an initialising interface that prompts the user very specificily on how to launch the marbles on its course, as well as how they could manipulate the tracks all through the interface.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
